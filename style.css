@@ -9,6 +9,9 @@
     background-image: url('/new-year-new-me/images/banner/banner3.png');
     background-repeat: no-repeat;
     background-position: center;
+    height: 808px;
+    width: 1600px;
+    margin: auto;
 }
 
 .banner-title {
