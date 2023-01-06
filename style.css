@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header section */
+.header {
+    background: white;
+    background-image: url('/new-year-new-me/images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner-title {
+    width: 525px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    padding: 216px 230px 364px 845px;
+}
+
+.banner-description {
+    width: 494px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
