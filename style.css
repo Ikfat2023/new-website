@@ -5,6 +5,7 @@
 
 /* header section */
 .header {
+    
     background: white;
     background-image: url('/new-year-new-me/images/banner/banner3.png');
     background-repeat: no-repeat;
@@ -46,4 +47,58 @@ font-size: 20px;
 color: #005FAC;
 margin-left: 1210px;
 margin-bottom: 166px;
+}
+
+/* about section  */
+
+.about{
+    width: 1072px;
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 131px 322px 129px 220px;
+}
+.image{
+    width: 569px;
+    height: 723px;
+}
+.about-details{
+    padding-left: 87px ;
+    padding-top: 220px;
+    width: 416px;
+    height: 400px;
+}
+.about-title{
+    font-weight: 700;
+font-size: 40px;
+color: #151414;
+width: 288px;
+height: 94px;
+margin-bottom: 24px;
+
+}
+.about-description{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+width: 416px;
+height: 104px;
+color: #444343;
+margin-bottom: 16px;
+padding-bottom: 20px;
+}
+.about-rules{
+    padding-bottom: 8px;
+}
+.fa-solid.fa-check{
+    color: #16D887;
+
+}
+.my-plans{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+}
+.section-title{
+
 }
