@@ -95,10 +95,61 @@ padding-bottom: 20px;
 
 }
 .my-plans{
-    text-align: center;
-    font-weight: 700;
-font-size: 40px;
+text-align: center;
+align-items: center;
 }
 .section-title{
-
+    font-weight: 700;
+font-size: 40px;
+margin-bottom: 50px;
+}
+.plans-container{
+    display: flex;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.plans{
+    margin: auto;
+}
+.plans img{
+    margin-bottom: 24px;
+}
+.plans h1{
+    font-weight: 700;
+font-size: 30px;
+margin-bottom: 16px;
+}
+.plans h4{
+    font-weight: 500;
+font-size: 25px;
+    color: #737272;
+}
+.contact{
+    paddi
+   
+}
+.contact-image{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 135px;
+    position: relative;
+}
+.image01, .image02 {
+    position: absolute;
+  top: 0;
+  left: 0;
+  mix-blend-mode: multiply;
+}
+.contact-details{
+    padding-top: 59px;
+    padding-left: 64px;
+    color: white;
+    mix-blend-mode: screen;
+    
+}
+.contact-details h1{
+    width: 459px;
+height: 94px;
+font-weight: 700;
+font-size: 40px;
 }
